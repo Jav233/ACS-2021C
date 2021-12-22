@@ -1,0 +1,4 @@
+public class nuevo{
+	String nom;
+	Int num;
+}
